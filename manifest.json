@@ -1,0 +1,40 @@
+{
+  "name": "সালেহ কম্পিউটার - ডিজিটাল হিসাবের খাতা",
+  "short_name": "সালেহ কম্পিউটার",
+  "description": "সালেহ কম্পিউটারের দৈনিক আয়-ব্যয়, বাকি ও বিকাশ হিসাবের ডিজিটাল খাতা",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#78350f",
+  "lang": "bn",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
